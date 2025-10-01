@@ -1,2 +1,2 @@
-Triggering workflow run
-Triggering workflow run again
+Triggering workflow run first time
+
